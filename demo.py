@@ -14,3 +14,9 @@ def sort(a):
 a=[800,100,130,30,0]
 sort(a)
 print("hi again from git")
+print("")
+#zip function
+name=["lk","ck","dk"]
+com=["dell","hp","mac"]
+c=dict(zip(name,com))
+print(c)
